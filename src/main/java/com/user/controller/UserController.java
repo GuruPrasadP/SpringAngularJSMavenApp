@@ -20,9 +20,7 @@ public class UserController {
 	
 	@RequestMapping(value="/save", method=RequestMethod.POST)
 	public ResponseEntity<?> save(@RequestBody User user) {
-		
 		return new ResponseEntity<String>("Saved employee details", HttpStatus.OK);
-		
 	}
 
 }
