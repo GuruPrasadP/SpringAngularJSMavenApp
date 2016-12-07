@@ -1,11 +1,12 @@
 #header {
-	background-color: white
+	background-color: white;
 }
 
 #header-text {
 	color: green;
 	text-align: center;
 	padding: 5px;
+	background-color: #ffff80
 }
 
 #menu {

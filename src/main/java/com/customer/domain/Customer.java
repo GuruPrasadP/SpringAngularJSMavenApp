@@ -1,8 +1,8 @@
-package com.user.domain;
+package com.customer.domain;
 
 import java.util.List;
 
-public class User {
+public class Customer {
 	private String firstName;
 	private String lastName;
 	private String gender;

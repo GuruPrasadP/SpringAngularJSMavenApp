@@ -16,7 +16,7 @@ Access application: URL on web
 http://localhost:8080/springangularjsapp/
 
 URL on REST: 
-http://localhost:8080/springangularjsapp/resources/user
+http://localhost:8080/springangularjsapp/resources/customer/save
 HTTP POST
 REQ Headers: Content-Type:application/json
 REQ body:
